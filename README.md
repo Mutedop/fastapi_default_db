@@ -2,8 +2,14 @@
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-9cf)
 ![Python](https://img.shields.io/badge/Python-3.10-success)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-yellowgreen)
 
-Basic database connection module, fastapi, synchronous.
+
+- Basic database connection module, fastapi.
+
+______
+*****synchronous*****
+_____
 
 - uvicorn app.main:app --reload
 
