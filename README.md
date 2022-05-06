@@ -5,6 +5,6 @@ Basic database connection module, fastapi, synchronous.
 
 - uvicorn app.main:app --reload
 
-![/](.github/forgit/fastapi_db_main.png)
+![/](forgit/fastapi_db_main.png)
 
-![/](.github/forgit/fastapi_db_schemas.png)
+![/](forgit/fastapi_db_schemas.png)
